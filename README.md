@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Frederik144
+- 👋 Hi, I’m @frederikelling
 - 👀 I’m interested in AI development.
 - 📫 How to reach me - You can reach me at my email frederik@elling.email
 
